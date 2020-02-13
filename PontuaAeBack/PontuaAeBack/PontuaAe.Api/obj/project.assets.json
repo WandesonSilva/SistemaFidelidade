@@ -14368,11 +14368,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\PontuaAe.Api.csproj",
+      "projectUniqueName": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\PontuaAe.Api.csproj",
       "projectName": "PontuaAe.Api",
-      "projectPath": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\PontuaAe.Api.csproj",
+      "projectPath": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\PontuaAe.Api.csproj",
       "packagesPath": "C:\\Users\\wande\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\obj\\",
+      "outputPath": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14391,14 +14391,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Compartilhado\\PontuaAe.Compartilhado.csproj": {
-              "projectPath": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Compartilhado\\PontuaAe.Compartilhado.csproj"
+            "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Compartilhado\\PontuaAe.Compartilhado.csproj": {
+              "projectPath": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Compartilhado\\PontuaAe.Compartilhado.csproj"
             },
-            "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Dominio\\PontuaAe.Dominio.csproj": {
-              "projectPath": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Dominio\\PontuaAe.Dominio.csproj"
+            "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Dominio\\PontuaAe.Dominio.csproj": {
+              "projectPath": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Dominio\\PontuaAe.Dominio.csproj"
             },
-            "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Infra\\PontuaAe.Infra.csproj": {
-              "projectPath": "C:\\Users\\wande\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Infra\\PontuaAe.Infra.csproj"
+            "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Infra\\PontuaAe.Infra.csproj": {
+              "projectPath": "C:\\Users\\wande\\dev_SistemaFidelidade\\SistemaFidelidade\\PontuaAeBack\\PontuaAeBack\\PontuaAe.Infra\\PontuaAe.Infra.csproj"
             }
           }
         }
